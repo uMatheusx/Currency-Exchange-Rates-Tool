@@ -7,7 +7,7 @@ We use the "Exchange Rates API" for our Converter. This is for informational pur
 
 <p float="left">
 
- <img src="https://prnt.sc/jfjsRaiH5Bhc" width="200" />
+ <img src="[https://prnt.sc/jfjsRaiH5Bhc](https://imgur.com/a/FGSK4Tv)" width="200" />
 
  <img src="https://prnt.sc/fCM02HHSTpQn" width="200" /> 
 
